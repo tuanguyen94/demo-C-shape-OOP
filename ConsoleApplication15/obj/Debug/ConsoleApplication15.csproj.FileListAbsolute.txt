@@ -1,0 +1,6 @@
+C:\Users\Tuan Nguyen\Documents\GitHub\demo-C-shape-OOP\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+C:\Users\Tuan Nguyen\Documents\GitHub\demo-C-shape-OOP\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+C:\Users\Tuan Nguyen\Documents\GitHub\demo-C-shape-OOP\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+C:\Users\Tuan Nguyen\Documents\GitHub\demo-C-shape-OOP\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+C:\Users\Tuan Nguyen\Documents\GitHub\demo-C-shape-OOP\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+C:\Users\Tuan Nguyen\Documents\GitHub\demo-C-shape-OOP\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
